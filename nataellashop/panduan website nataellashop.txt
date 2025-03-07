@@ -1,0 +1,28 @@
+Nama : Nataella Shop
+Jenis Website : Toko Online (E-Commerce dibidang Fashion)
+By : Irdi Angela SMK Bhumi Husada Jakarta
+
+--- ADMIN ---
+username : admin
+password : 123
+
+--- USER/CUSTOMER ---
+1. username : nata / password : 123
+2. username : Rebecca / password : 321
+
+---------------------
+POV CUSTOMER :
+1. buka 'localhost/nataellashop' -> akan masuk ke tampilan login, pilih lingkaran Customer
+2. login dengan username "nata" & password "123" / bisa register terlebih dahulu
+3. masuk menu home toko , pilih kategori atau produk yang ingin di beli. setelah itu klik "Buy"
+4. produk masuk ke dalam keranjang anda, anda bisa menambah barang lain atau menambah/mengurangi barang yang ada di keranjang. lalu klik "Checkout"
+5. setelah checkout, anda akan diminta untuk membayar melalui metode 'Qris' yang tertera, juga anda diharuskan untuk meng-upload bukti pembayaran. lalu memilih metode pengiriman yakni: JNE, Grab Exp, atau Gosend
+6. anda akan masuk ke tampilan 'Order' dimana anda dapat melihat transaksi anda yang sedang diproses (cara untuk mengganti status order adalah dengan masuk ke admin)
+
+POV ADMIN :
+1. login sebagai admin dengan memilih lingkaran 'Admin', lalu masukan username "admin" dengan password "123"
+2. setelah masuk ke halaman dashboard, disana anda dapat melihat data order yang telah dilakukan oleh customer pada 'Sales Overview'
+3. anda juga dapat merubah status order dari yang sebelumnya masih diproses menjadi 'Delivering' dengan masuk ke 'Shipping Management'
+4. terdapat 'Profile' untuk mengubah data admin. Serta mengganti password admin
+5. ada 'Data Category', admin bisa mengedit, menambah atau menghapus kategori barang
+6. lalu 'Data Product', admin bisa mengedit, menambah serta menghapus produk yang dijual
